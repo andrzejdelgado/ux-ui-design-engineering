@@ -1,11 +1,13 @@
 # UX UI Design Engineering
 
+[![skills.sh](https://skills.sh/b/andrzejdelgado/ux-ui-design-engineering)](https://skills.sh/andrzejdelgado/ux-ui-design-engineering)
+
 This skill closes that gap by packaging **33 design engineering principles** into an instruction set an AI coding assistant (Claude Code, Cursor, and others) loads when you ask it to do UI work — so the output is worth work of a seasoned UX/UI Design Engineer.
 
 ## Install
 
 ```bash
-npx skills add ux-ui-design-engineering
+npx skills add andrzejdelgado/ux-ui-design-engineering
 ```
 
 The skill installs into any agent — Claude Code, Cursor, GitHub Copilot, OpenCode, Goose, Amp, Codex, Gemini CLI, etc. After install, the agent loads the skill on demand whenever a task touches UI work.
